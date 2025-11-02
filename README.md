@@ -24,32 +24,34 @@ In my free time, I love planning my trips to new countries, going to live music 
 
 ---
 
-## Building the Shopping channel in MSN and Bing
+## Building the Shopping Channel in MSN and Bing
 
 Breve descripción o logros principales del proyecto.
 
 ---
 
-## Increasing MSN advertising revenue X4
+## Increasing MSN Advertising Revenue X4
 
 One of my projects while working at **Microsoft** was to lead the **revenue strategy execution for MSN**.  
 
 MSN is Microsoft's **news and media aggregator service**. It provides personalized news content based on user interests, curated by both human editors and AI, and partners with over 1,000 premium publishers globally. As a free experience for users, it is monetized through **credible, appropriate, and discrete advertising**.  
 
+## The Objective
+
 I was responsible for the **monetization strategy across 53 international markets**, with the goal to **increase advertising revenue X4** while maintaining the platform's **user engagement and growth rates**. When I joined the team, MSN had over **600 million Daily Active Users (DAU)**, and the only advertising revenue source was **Display Programmatic Ads**.
 
-### Strategy to Achieve Revenue Goal
+### The Strategy to Achieve the Revenue Goal
 
 To achieve the X4 revenue goal, we needed to **experiment with new online advertising revenue streams**, identify potential partners, and validate their revenue potential while maintaining **product quality**.  
 
-After market research and partner identification, we focused on a **4-pronged approach** to multiply contribution margin:
+After market research and identification of partners, we focused on a **4-pronged approach** to multiply contribution margin:
 
-1. **Optimize existing Programmatic Display Ads revenue**.  
-2. **Introduce Native Advertisers** without degrading user experience.  
-3. **Introduce Affiliates** in lifestyle / "shopping" related content.  
-4. **Introduce Direct Demand Sold placements** in Tier 1 markets (top 15 markets by traffic and revenue).
+> 1. **Optimize existing Programmatic Display Ads revenue**.  
+> 2. **Introduce Native Advertisers** without degrading the user experience.  
+> 3. **Introduce Affiliates** in lifestyle / "shopping" related content.  
+> 4. **Introduce Direct Demand Sold placements** in Tier 1 markets (top 15 markets by traffic and revenue).
 
-### Metrics Tracked
+We tracked the **following metrics**:
 
 ### 1. Product Guardrail Metrics (Audience & Inventory Health)
 Ensure a healthy audience and high-quality inventory for monetization.
