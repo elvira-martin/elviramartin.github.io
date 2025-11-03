@@ -32,51 +32,68 @@ Breve descripción o logros principales del proyecto.
 
 ---
 
-## Increasing MSN Advertising Revenue X4 :heavy_dollar_sign::rocket:
+## Increasing MSN Advertising Revenue 4X :heavy_dollar_sign::rocket:
 
-One of my projects while working at **Microsoft** was to lead the **revenue strategy execution for MSN** across 53 international markets. The goal was to increase x4 the advertising revenue, while maintaining the platform's  user engagement and growth rates.  
+One of my projects at **Microsoft** was to lead the **revenue strategy execution for MSN** across 53 international markets. The goal was to **quadruple advertising revenue** while maintaining user engagement and growth rates.
 
-MSN is Microsoft's **news and media aggregator service**. It provides personalized news content based on user interests, curated by both human editors and AI, and partners with over 1,000 premium publishers globally. As a free experience for users, it is monetized through **credible, appropriate, and discrete advertising**.
+**MSN** is Microsoft’s **news and media aggregator service**, offering personalized news curated by both human editors and AI. It partners with over 1,000 premium publishers globally and is monetized through **credible, appropriate, and discreet advertising**.
 
 **The Challenge**
 
-When I joined the team, MSN had over 600 million Daily Active Users (DAU) globally and the only advertising revenue source was through **Display Programmatic Ads**. 
-
-Revenue from international markets lagged behind U.S. benchmarks and lacked a consistent strategy for premium ad inventory.
+When I joined the team, MSN had over **600 million Daily Active Users (DAU)** worldwide. However, international revenue significantly lagged behind U.S. benchmarks and relied solely on **programmatic display ads** with no consistent premium inventory strategy.
 
 **My Role**
 
-I defined a unified revenue growth framework; partnered with engineering, international PMs, BizDev and ad sales to align on vision and plans. To achieve the X4 revenue goal, we needed to **experiment with new online advertising revenue streams**, identify potential partners, and validate their revenue potential while maintaining **product quality**.  
+My first task was to **implement and validate the correct instrumentation of Ads PGCs (page group codes)** after the migration to a new content platform.
 
-After market research and identification of partners, we focused on a **4-pronged approach** to multiply contribution margin:
+It soon became clear we needed to diversify revenue streams, explore new ad formats, and experiment with partners to validate potential — all while maintaining product quality.
 
-> 1. [**Optimization of existing Programmatic Display Ads revenue**.](https://github.com/elvira-martin/programmatic-display)  
-> 2. [**Introduction of Native Advertisers**](https://github.com/elvira-martin/native-advertising) without degrading the user experience.  
-> 3. **Introduction of Affiliates** in lifestyle / "shopping" related content.  
-> 4. **Introduction of a Direct Demand Sold program** in Tier 1 markets (top 15 markets by traffic and revenue).
+After conducting market research and identifying potential partners, we designed a **four-pronged strategy** to increase contribution margin by 4x:
 
-We tracked the **following metrics**:
+  1. **Optimize existing Programmatic display ads revenue**.
+  2. **Introduce Native Advertisers** without degrading the user experience.
+  3. **Integrate Affiliate links** within lifestyle and "shopping"-related content.
+  4. **Enable direct-sold demand** in Tier 1 markets (top 15 by traffic and revenue). 
 
-   - Product Guardrail metrics (**Audience & Inventory health**):
-     - :white_check_mark: Avg Daily Active Users
-     - :white_check_mark: Core PVS: Core Page Views
-     - :white_check_mark: CPV/UU: Core Page Views per Unique User (this metric measure overall product quality and health, and helps us have quality invertory to help our partners sell).
-     
-   - **Leading Monetization** Guardrail Metrics:
-     - :white_check_mark: NPS (Net Promoter Score): to ensure that monetization does not destroy user value.
-     - :white_check_mark: Promotion Density: the percentage of user surface where ads appear.
-     - :white_check_mark: CTR (Click-Through Rate): ad engament is a signal of ad quality and predicts revenue performance.
-     - :white_check_mark: Viewability Rate: %of ad impressions that meet the MRC viewability.
-     
-   -  **Revenue (Yield)** metrics:
-      - :white_check_mark: eCPM / RPM: $ revenue per mille (thousand) impressions. It is an indicator of monetization efficiency (market demand and pricing strength).
-      - :white_check_mark: Fill rate: percentage of actual ad impressions filled with an ad.
-      - :white_check_mark: ARPU: Average Revenue per Active User.
-      - :white_check_mark: CM/GM: profitability after variable (CM) or total (GM) costs.
-      - :white_check_mark: Total Ad revenue.
+To operationalize this, I created a **virtual global team (v-team)** including a **PM** and a **Business Development Manager** from each region (APAC, EMEA, North America, LATAM).
+	- Regional reps identified partnership opportunities and regional monetization improvements.
+	- PMs managed local roadmaps, while I owned the **global prioritization and execution**.
 
+I managed the **International Monetization Epic** in **Azure DevOps**, tracking progress on prioritized **Features** and **PBIs** across revenue streams.
 
+I worked closely with the Platform team to define the **Ads Share of Voice (SOV)** (ad density) to ensure monetization never compromised the user experience. Every new ad placement or partner integration was **A/B tested** and validated through experimentation.
 
+**Key initiatives** included:
+
+- Leading the experimentation and onboarding of **native ad partners (Taboola, Outbrain, and 13 regional partners)**.
+- Managing **programmatic display partners** and feature optimizations to improve inventory quality.
+- Creating the **Direct Sold Demand Playbook** to help top markets sell premium placements.
+- Testing and deploying **affiliate links** in shopping-related content.
+
+I measured the following **key metrics**:
+
+- **Product Guardrail Metrics (Audience & Inventory Health)**: 
+		○ Avg. Daily Active Users (DAU)
+		○ Core Page Views (CPVs)
+		○ CPV/UU (Core Page Views per Unique User) - an indicator of product quality and inventory health
+
+- **Monetization Guardrail Metrics**: 
+		○ NPS (Net Promoter Score) - ensuring monetization didn't hurt user value  
+		○ Promotion Density - % of user surface with ads 
+		○ CTR (Click-Through Rate) - engagement and ad quality signal 
+		○ Viewability Rate - % of ad impressions meeting MRC standards 
+	
+- **Revenue (Yield) Metrics**: 
+		○ eCPM / RPM - revenue per thousand impressions
+		○ Fill Rate - % of impressions filled  
+		○ ARPU - Average Revenue per User. 
+		○ CM/GM - contribution margin and gross margin
+
+**The Results**
+
+- **4x increase** in international advertising revenue in 4 years
+- Achieved **+100% year-over-year growth** while maintaining product quality and user engagement
+  
 ## Releasing 4 Bing Apps in Windows
 
 Detalles sobre el lanzamiento y las métricas clave.
