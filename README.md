@@ -4,17 +4,17 @@ Welcome to my personal portfolio!
 ---
 
 ## About me
-I am a **Product / Program** and **Digital Markting Manager**, that loves solving complex problems to make customers' lives easier and help brands scale their business. 
+I am a **Product, Program**, and **Digital Marketing Manager** who loves solving complex problems to make customers' lives easier and help brands scale their business. 
 
-I have 15 years of experience in Product and Program Management at **Microsoft**, where I optimized and built new [**MSN channels**](https://www.msn.com) and [**Bing Apps**](https://www.bing.com) with a focus on user growth, retention, monetization and international expansion. 
+I have 15 years of experience in Product and Program Management at **Microsoft**, where I optimized and built new [**MSN channels**](https://www.msn.com) and [**Bing Apps**](https://www.bing.com) - with a focus on user **growth, retention, monetization and international expansion**. 
 
-Before this, I led the Digital Marketing and CRM program at **VisitBritain** in Spain, promoting Great Britain as a tourist destination and cross-selling everyhting related to the trip, from flights, to Oyster cards and theater tickets.
+Before that, I led the **Digital Marketing and CRM program** at **VisitBritain** in Spain, promoting Great Britain as a tourist destination and cross-selling trip-related products - from flights to Oyster cards and theatre tickets.
 
-I also have 5 years of experience in business development at [**Austrade**](https://www.austrade.gov.au/), where I helped Australian companies export to Spain and Portugal (from seafood and wines - yes wine to Spain :smile: -, to swags and surf boards). 
+Earlier in my career, I spent 5 years in **business development** at [**Austrade**](https://www.austrade.gov.au/), helping Australian companies export to Spain and Portugal (from seafood and wines - yes wine *to* Spain :smile: -, to swags and surfboards). 
 
-I am life-long learner and this has driven me to new roles and responsabilities throughout my career. I have a Bc. of Arts in English from Universidad de Salamanaca. Right now I am studying Cloud Computing and AI at Universidad Complutense de Madrid. I completed Programs in Innovation Management, Programmatic Advertising, CRM and Digital Marketing at different schools in the past 10 years.
+I am lifelong learner, which has continuously driven me to explore new roles and responsibilities. I hold a **Bachelor of Arts in English** from University of Salamaaca, and I'm currently studying a Master's in **Cloud Computing and AI** at Complutense University of Madrid. Over the past decade, I've also completed programs in **Innovation Management, Programmatic Advertising, CRM** and **Digital Marketing**.
 
-In my free time, I love planning my trips to new countries, going to live music concerts and having tapas with my family and friends. 
+In my free time, I love discovering new countries, going to live music concerts, and enjoying tapas with my family and friends. 
 
 ---
 
@@ -34,17 +34,19 @@ Breve descripción o logros principales del proyecto.
 
 ## Increasing MSN Advertising Revenue X4 :heavy_dollar_sign::rocket:
 
-One of my projects while working at **Microsoft** was to lead the **revenue strategy execution for MSN**.  
+One of my projects while working at **Microsoft** was to lead the **revenue strategy execution for MSN** across 53 international markets. The goal was to increase x4 the advertising revenue, while maintaining the platform's  user engagement and growth rates.  
 
-MSN is Microsoft's **news and media aggregator service**. It provides personalized news content based on user interests, curated by both human editors and AI, and partners with over 1,000 premium publishers globally. As a free experience for users, it is monetized through **credible, appropriate, and discrete advertising**.  
+MSN is Microsoft's **news and media aggregator service**. It provides personalized news content based on user interests, curated by both human editors and AI, and partners with over 1,000 premium publishers globally. As a free experience for users, it is monetized through **credible, appropriate, and discrete advertising**.
 
-**The Objective**
+**The Challenge**
 
-I was responsible for the **monetization strategy across 53 international markets**, with the goal to **increase advertising revenue X4** while maintaining the platform's **user engagement and growth rates**. When I joined the team, MSN had over **600 million Daily Active Users (DAU)**, and the only advertising revenue source was **Display Programmatic Ads**.
+When I joined the team, MSN had over 600 million Daily Active Users (DAU) globally and the only advertising revenue source was through **Display Programmatic Ads**. 
 
-**The Strategy** to Achieve the Revenue Goal
+Revenue from international markets lagged behind U.S. benchmarks and lacked a consistent strategy for premium ad inventory.
 
-To achieve the X4 revenue goal, we needed to **experiment with new online advertising revenue streams**, identify potential partners, and validate their revenue potential while maintaining **product quality**.  
+**My Role**
+
+I defined a unified revenue growth framework; partnered with engineering, international PMs, BizDev and ad sales to align on vision and plans. To achieve the X4 revenue goal, we needed to **experiment with new online advertising revenue streams**, identify potential partners, and validate their revenue potential while maintaining **product quality**.  
 
 After market research and identification of partners, we focused on a **4-pronged approach** to multiply contribution margin:
 
