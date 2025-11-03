@@ -38,11 +38,11 @@ One of my projects at **Microsoft** was to lead the **revenue strategy execution
 
 **MSN** is Microsoft’s **news and media aggregator service**, offering personalized news curated by both human editors and AI. It partners with over 1,000 premium publishers globally and is monetized through **credible, appropriate, and discreet advertising**.
 
-**The Challenge**
+### **The Challenge**
 
 When I joined the team, MSN had over **600 million Daily Active Users (DAU)** worldwide. However, international revenue significantly lagged behind U.S. benchmarks and relied solely on **programmatic display ads** with no consistent premium inventory strategy.
 
-**My Role**
+### **My Role**
 
 My first task was to **implement and validate the correct instrumentation of Ads PGCs (page group codes)** after the migration to a new content platform.
 
@@ -70,26 +70,26 @@ I worked closely with the Platform team to define the **Ads Share of Voice (SOV)
 - Creating the **Direct Sold Demand Playbook** to help top markets sell premium placements.
 - Testing and deploying **affiliate links** in shopping-related content.
 
-I measured the following **key metrics**:
+### I measured the following **key metrics**:
 
-- **Product Guardrail Metrics (Audience & Inventory Health)**: 
-		○ Avg. Daily Active Users (DAU)
-		○ Core Page Views (CPVs)
-		○ CPV/UU (Core Page Views per Unique User) - an indicator of product quality and inventory health
+- **Product Guardrail Metrics (Audience & Inventory Health)**:
+  - :white_check_mark: Avg. Daily Active Users (DAU)
+  - :white_check_mark: Core Page Views (CPVs)
+  - :white_check_mark: CPV/UU (Core Page Views per Unique User) - an indicator of product quality and inventory health
 
-- **Monetization Guardrail Metrics**: 
-		○ NPS (Net Promoter Score) - ensuring monetization didn't hurt user value  
-		○ Promotion Density - % of user surface with ads 
-		○ CTR (Click-Through Rate) - engagement and ad quality signal 
-		○ Viewability Rate - % of ad impressions meeting MRC standards 
+- **Monetization Guardrail Metrics**:
+  - :white_check_mark: NPS (Net Promoter Score) - ensuring monetization didn't hurt user value
+  - :white_check_mark: Promotion Density - % of user surface with ads
+  - :white_check_mark: CTR (Click-Through Rate) - engagement and ad quality signal
+  - :white_check_mark: Viewability Rate - % of ad impressions meeting MRC standards 
 	
-- **Revenue (Yield) Metrics**: 
-		○ eCPM / RPM - revenue per thousand impressions
-		○ Fill Rate - % of impressions filled  
-		○ ARPU - Average Revenue per User. 
-		○ CM/GM - contribution margin and gross margin
+- **Revenue (Yield) Metrics**:
+  - :white_check_mark: eCPM / RPM - revenue per thousand impressions
+  - :white_check_mark: Fill Rate - % of impressions filled
+  - :white_check_mark: ARPU - Average Revenue per User.
+  - :white_check_mark: CM/GM - contribution margin and gross margin
 
-**The Results**
+### **The Results** :chart_with_upwards_trend:
 
 - **4x increase** in international advertising revenue in 4 years
 - Achieved **+100% year-over-year growth** while maintaining product quality and user engagement
