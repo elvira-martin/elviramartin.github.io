@@ -49,7 +49,7 @@ To achieve the X4 revenue goal, we needed to **experiment with new online advert
 After market research and identification of partners, we focused on a **4-pronged approach** to multiply contribution margin:
 
 > 1. [**Optimization of existing Programmatic Display Ads revenue**.](https://github.com/elvira-martin/programmatic-display)  
-> 2. **Introduction of Native Advertisers** without degrading the user experience.  
+> 2. [**Introduction of Native Advertisers**](https://github.com/elvira-martin/native-advertising) without degrading the user experience.  
 > 3. **Introduction of Affiliates** in lifestyle / "shopping" related content.  
 > 4. **Introduction of a Direct Demand Sold program** in Tier 1 markets (top 15 markets by traffic and revenue).
 
