@@ -26,7 +26,7 @@ In my free time, I love discovering new countries, going to live music concerts,
 
 ---
 
-## Building the Shopping Channel in MSN and Bing
+## Building the Shopping Channel in MSN and Bing :shopping_cart:
 
 Breve descripción o logros principales del proyecto.
 
@@ -94,6 +94,6 @@ I worked closely with the Platform team to define the **Ads Share of Voice (SOV)
 - **4x increase** in international advertising revenue in 4 years
 - Achieved **+100% year-over-year growth** while maintaining product quality and user engagement
   
-## Releasing 4 Bing Apps in Windows
+## Releasing 4 Bing Apps in Windows :globe_with_meridians:
 
 Detalles sobre el lanzamiento y las métricas clave.
