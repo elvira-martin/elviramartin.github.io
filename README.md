@@ -12,7 +12,7 @@ Before that, I led the **Digital Marketing and CRM program** at **VisitBritain**
 
 Earlier in my career, I spent 5 years in **business development** at [**Austrade**](https://www.austrade.gov.au/), helping Australian companies export to Spain and Portugal (from seafood and wines - yes wine *to* Spain :smile: -, to swags and surfboards). 
 
-I am lifelong learner, which has continuously driven me to explore new roles and responsibilities. I hold a **Bachelor of Arts in English** from University of Salamaaca, and I'm currently studying a Master's in **Cloud Computing and AI** at Complutense University of Madrid. Over the past decade, I've also completed programs in **Innovation Management, Programmatic Advertising, CRM** and **Digital Marketing**.
+I am lifelong learner, which has continuously driven me to explore new roles and responsibilities. I hold a **Bachelor of Arts in English** from University of Salamanca, and I'm currently studying a Master's in **Cloud Computing and AI** at Complutense University of Madrid. Over the past decade, I've also completed programs in **Innovation Management, Programmatic Advertising, CRM** and **Digital Marketing**.
 
 In my free time, I love discovering new countries, going to live music concerts, and enjoying tapas with my family and friends. 
 
